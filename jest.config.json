@@ -1,0 +1,8 @@
+{
+  "testEnvironment": "jest",
+  "transform": {
+    "^.+\\.ts?$": "ts-jest"
+  },
+  "transformIgnorePatterns": ["<rootDir>/node_modules/"],
+  "rootDir": "../"
+}
